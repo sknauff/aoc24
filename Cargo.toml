@@ -1,3 +1,7 @@
 [workspace]
-members = ["shared-lib","day01"]
+members = [
+    "shared-lib",
+    "day01",
+    "day02",
+]
 resolver = "2"

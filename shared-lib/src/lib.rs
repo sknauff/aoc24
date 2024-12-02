@@ -1,4 +1,3 @@
-
 fn print_solution<T: std::fmt::Display>(idx: u8, solution: T) {
     println!(
         "{}",
